@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayushpathak13022006@gmail.com**
 
-- ⚡ Fun fact **The Earth is not a circle, it is a spheroid**
+- ⚡ Fun fact **There are infinite elements in an empty fuzzy set**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
