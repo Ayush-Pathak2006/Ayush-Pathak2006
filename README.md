@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Node JS, Express JS, React JS and much more**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HRe09QVLNtZzzx92nizHPAfqEfnWRhk3/view?usp=sharing)
+
 - 📫 How to reach me **ayushpathak13022006@gmail.com**
 
 - ⚡ Fun fact **There are infinite elements in an empty fuzzy set**
