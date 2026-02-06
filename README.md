@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pathak</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/858f66b0-cc19-4c23-8c56-0d09f2517468">
 
