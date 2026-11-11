@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node JS, Express JS, React JS and much more**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xVAlgJ6-zrqcOT4EjRDlPa-V5hfKg3m7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bN2v514hEP3J6UlNk46auWQxvlU-W27w/view?usp=sharing)
 
 - 📫 How to reach me **ayushpathak13022006@gmail.com**
 
